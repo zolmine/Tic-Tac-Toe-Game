@@ -1,4 +1,4 @@
-# multiplayerTicTacToe
+# Tic-Tac-Toe Multiplayer Game
 
 ## Links
 * [Youtube](https://youtu.be/G7XM1zFFIxo) - Testing video.
